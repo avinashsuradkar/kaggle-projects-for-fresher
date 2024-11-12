@@ -1,4 +1,3 @@
-# kaggle projects for beginner
 <h1 align="center">Kaggle Competitions Collection for Beginners 🎯</h1>
 
 <p align="center">A curated collection of resources for Kaggle competitions tailored for freshers to get started with real-world data science challenges.</p>
@@ -30,8 +29,8 @@
 <h2>📘 Competitions Covered</h2>
 
 <ul>
-    <li><a href="https://kaggle.com/competition1">Competition Name 1</a>: Brief description</li>
-    <li><a href="https://kaggle.com/competition2">Competition Name 2</a>: Brief description</li>
+    <li><a href="https://kaggle.com/competition1">Titanic 1</a>: Brief description</li>
+    <li><a href="https://kaggle.com/competition2">Spaceship Titanic  2</a>: Brief description</li>
     <!-- Add more competitions as needed -->
 </ul>
 
