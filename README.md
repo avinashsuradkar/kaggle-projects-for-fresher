@@ -3,8 +3,13 @@
 <p align="center">A curated collection of resources for Kaggle competitions tailored for freshers to get started with real-world data science challenges.</p>
 
 <div align="center">
-    <img src="https://www.kaggle.com/avinashsuradkar" alt="banner" width="80%">
+    <a href="https://www.kaggle.com/[your-kaggle-ameusern](https://www.kaggle.com/avinashsuradkar)" target="_blank">
+        <button style="padding: 10px 20px; font-size: 16px; background-color: #20BEFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+            Visit My Kaggle Profile
+        </button>
+    </a>
 </div>
+
 
 <hr>
 
