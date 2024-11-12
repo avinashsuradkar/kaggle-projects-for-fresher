@@ -48,10 +48,4 @@
     <li>Gain confidence in data science through practical experience</li>
 </ul>
 
-<h2>📜 License</h2>
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-<hr>
-
 <p align="center">Happy learning! 🎉 If you have suggestions or improvements, feel free to contribute!</p>
