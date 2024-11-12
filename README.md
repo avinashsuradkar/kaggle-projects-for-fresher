@@ -21,7 +21,7 @@
 <p>Follow these steps to get up and running:</p>
 
 <ol>
-    <li><b>Clone the repository:</b> <code>git clone https://github.com/yourusername/kaggle-competitions-beginner</code></li>
+    <li><b>Clone the repository:</b> <code>git clone https://github.com/avinashsuradkar/kaggle-competitions-beginner</code></li>
     <li><b>Install requirements:</b> Run <code>pip install -r requirements.txt</code> to install dependencies.</li>
     <li><b>Explore Competitions:</b> Navigate through each folder for competition-specific resources and solutions.</li>
 </ol>
@@ -29,8 +29,8 @@
 <h2>📘 Competitions Covered</h2>
 
 <ul>
-    <li><a href="https://kaggle.com/competition1">Titanic 1</a>: Brief description</li>
-    <li><a href="https://kaggle.com/competition2">Spaceship Titanic  2</a>: Brief description</li>
+    <li><a href="https://www.kaggle.com/competitions/spaceship-titanic">Titanic 1</a>: Brief description</li>
+    <li><a href="https://www.kaggle.com/competitions/spaceship-titanic/overview">Spaceship Titanic  2</a>: Brief description</li>
     <!-- Add more competitions as needed -->
 </ul>
 
