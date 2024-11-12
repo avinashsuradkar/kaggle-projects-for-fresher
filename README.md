@@ -3,7 +3,7 @@
 <p align="center">A curated collection of resources for Kaggle competitions tailored for freshers to get started with real-world data science challenges.</p>
 
 <div align="center">
-    <img src="path-to-your-image" alt="banner" width="80%">
+    <img src="https://www.kaggle.com/avinashsuradkar" alt="banner" width="80%">
 </div>
 
 <hr>
